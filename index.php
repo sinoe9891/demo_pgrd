@@ -96,7 +96,7 @@
           }),
           new ol.layer.Image({
             source: new ol.source.ImageStatic({
-              url: 'http://localhost/Github/demo_pgrd/images/2.png',
+              url: 'http://localhost/Github/demo_pgrd/demo_pgrd/images/2.png',
               crossOrigin: '',
               projection: 'EPSG:27700',
               imageExtent: imageExtent
